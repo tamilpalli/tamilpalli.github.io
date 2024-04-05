@@ -33978,45 +33978,66 @@ const Screen12 = ()=>{
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     className: "button",
-                                    children: [
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                            className: "overlap-group-5",
-                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                                                className: "rectangle-3",
-                                                href: "https://docs.google.com/forms/d/e/1FAIpQLSc2MHtkp-xyJewRHGusKrn0GYXrggeoheoW25-OoQRXH-ZnMw/viewform",
-                                                rel: "noopener noreferrer",
-                                                target: "_blank",
-                                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                    className: "text-wrapper-19",
-                                                    children: "Register"
-                                                }, void 0, false, {
-                                                    fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 25,
-                                                    columnNumber: 21
-                                                }, undefined)
+                                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        className: "overlap-group-5",
+                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                                            className: "rectangle-3",
+                                            href: "https://drive.google.com/drive/folders/1fwZhUvKezsO7CIDFHMAVfKJrQr6XXThr?usp=share_link",
+                                            rel: "noopener noreferrer",
+                                            target: "_blank",
+                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                className: "text-wrapper-19",
+                                                children: "\u0BA8\u0BBF\u0BB2\u0BC8 1 \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF"
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 20,
-                                                columnNumber: 17
+                                                lineNumber: 26,
+                                                columnNumber: 21
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                            lineNumber: 19,
-                                            columnNumber: 15
-                                        }, undefined),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            className: "text-wrapper-20",
-                                            to: "/research-details",
-                                            children: "Learn More"
+                                            lineNumber: 21,
+                                            columnNumber: 17
+                                        }, undefined)
+                                    }, void 0, false, {
+                                        fileName: "src/screens/Screen12/Screen12.jsx",
+                                        lineNumber: 20,
+                                        columnNumber: 15
+                                    }, undefined)
+                                }, void 0, false, {
+                                    fileName: "src/screens/Screen12/Screen12.jsx",
+                                    lineNumber: 19,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "button2",
+                                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        className: "overlap-group-5",
+                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                                            className: "rectangle-3",
+                                            href: "https://drive.google.com/drive/folders/1R9PfYGXqETZqKrJNh-TFLUm8vMRwa2us?usp=share_link",
+                                            rel: "noopener noreferrer",
+                                            target: "_blank",
+                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                className: "text-wrapper-19",
+                                                children: "\u0BA8\u0BBF\u0BB2\u0BC8 2 \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF"
+                                            }, void 0, false, {
+                                                fileName: "src/screens/Screen12/Screen12.jsx",
+                                                lineNumber: 37,
+                                                columnNumber: 21
+                                            }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                            lineNumber: 28,
-                                            columnNumber: 15
+                                            lineNumber: 32,
+                                            columnNumber: 17
                                         }, undefined)
-                                    ]
-                                }, void 0, true, {
+                                    }, void 0, false, {
+                                        fileName: "src/screens/Screen12/Screen12.jsx",
+                                        lineNumber: 31,
+                                        columnNumber: 15
+                                    }, undefined)
+                                }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 18,
+                                    lineNumber: 30,
                                     columnNumber: 13
                                 }, undefined)
                             ]
@@ -34034,7 +34055,7 @@ const Screen12 = ()=>{
                                     children: "Home"
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 34,
+                                    lineNumber: 44,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34043,7 +34064,7 @@ const Screen12 = ()=>{
                                     children: "Research Details"
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 35,
+                                    lineNumber: 45,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34052,7 +34073,7 @@ const Screen12 = ()=>{
                                     children: "Resources"
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 38,
+                                    lineNumber: 48,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34061,20 +34082,20 @@ const Screen12 = ()=>{
                                     children: "Contact"
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 41,
+                                    lineNumber: 51,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     className: "rectangle-22"
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 44,
+                                    lineNumber: 54,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/Screen12/Screen12.jsx",
-                            lineNumber: 33,
+                            lineNumber: 43,
                             columnNumber: 11
                         }, undefined)
                     ]
@@ -34094,7 +34115,7 @@ const Screen12 = ()=>{
                                     children: "Research Topics"
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 49,
+                                    lineNumber: 59,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34103,7 +34124,7 @@ const Screen12 = ()=>{
                                     src: "/img/line-1-2.svg"
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 50,
+                                    lineNumber: 60,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34117,7 +34138,7 @@ const Screen12 = ()=>{
                                                 src: "/img/rectangle-15-4.svg"
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 53,
+                                                lineNumber: 63,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34126,7 +34147,7 @@ const Screen12 = ()=>{
                                                 src: "/img/image-25-1.png"
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 54,
+                                                lineNumber: 64,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34135,7 +34156,7 @@ const Screen12 = ()=>{
                                                 src: "/img/image-23-1.png"
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 55,
+                                                lineNumber: 65,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -34144,139 +34165,139 @@ const Screen12 = ()=>{
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BB1\u0BBF\u0BB5\u0BC1",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 57,
+                                                        lineNumber: 67,
                                                         columnNumber: 40
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B95\u0BCB\u0BA9\u0BCD\u0BAE\u0BC8",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 58,
+                                                        lineNumber: 68,
                                                         columnNumber: 41
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BB5\u0BBE\u0BAF\u0BCD\u0BAE\u0BC8",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 59,
+                                                        lineNumber: 69,
                                                         columnNumber: 41
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAA\u0BC1\u0B95\u0BB4\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 60,
+                                                        lineNumber: 70,
                                                         columnNumber: 40
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA4\u0BC1\u0BB1\u0BB5\u0BC1",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 61,
+                                                        lineNumber: 71,
                                                         columnNumber: 40
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B8A\u0BB4\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 62,
+                                                        lineNumber: 72,
                                                         columnNumber: 38
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B95\u0BB2\u0BCD\u0BB5\u0BBF",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 63,
+                                                        lineNumber: 73,
                                                         columnNumber: 40
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BA9\u0BCD\u0BAA\u0BC1",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 64,
+                                                        lineNumber: 74,
                                                         columnNumber: 40
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0BA8\u0BBF\u0BB2\u0BC8\u0BAF\u0BBE\u0BAE\u0BC8",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 65,
+                                                        lineNumber: 75,
                                                         columnNumber: 45
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0BA8\u0BB1\u0BCD\u0BAA\u0BA3\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 66,
+                                                        lineNumber: 76,
                                                         columnNumber: 48
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B88\u0B95\u0BC8",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 67,
+                                                        lineNumber: 77,
                                                         columnNumber: 38
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0BAE\u0BA9 \u0B89\u0BB1\u0BC1\u0BA4\u0BBF",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 68,
+                                                        lineNumber: 78,
                                                         columnNumber: 45
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B95\u0BCB\u0BAA\u0BAE\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 69,
+                                                        lineNumber: 79,
                                                         columnNumber: 40
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAA\u0B95\u0BC8\u0BB5\u0BC6\u0BB1\u0BBF \u0B8E\u0BA4\u0BBF\u0BB0\u0BCD\u0BAA\u0BCD\u0BAA\u0BBF\u0BAF\u0BB2\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 70,
+                                                        lineNumber: 80,
                                                         columnNumber: 58
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0B95\u0B9F\u0BB2\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 71,
+                                                        lineNumber: 81,
                                                         columnNumber: 35
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B89\u0BB3\u0BB5\u0BC1",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 72,
+                                                        lineNumber: 82,
                                                         columnNumber: 39
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B9A\u0BC6\u0BB2\u0BCD\u0BB5\u0BAE\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 73,
+                                                        lineNumber: 83,
                                                         columnNumber: 45
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BBE\u0BA9\u0BC1\u0B9F\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD \u0B9A\u0BBF\u0BA8\u0BCD\u0BA4\u0BC8\u0BA9\u0B95\u0BB3\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 74,
+                                                        lineNumber: 84,
                                                         columnNumber: 59
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BB5\u0BBE\u0BB4\u0BCD\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD \u0BA8\u0BC6\u0BB1\u0BBF\u0BAE\u0BC1\u0BB1\u0BC8\u0B95\u0BB3\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 75,
+                                                        lineNumber: 85,
                                                         columnNumber: 56
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B89\u0BB1\u0BB5\u0BC1\u0BAE\u0BCD \u0BAA\u0B95\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 76,
+                                                        lineNumber: 86,
                                                         columnNumber: 49
                                                     }, undefined),
                                                     "\u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BAA\u0BB2"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 56,
+                                                lineNumber: 66,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                        lineNumber: 52,
+                                        lineNumber: 62,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 51,
+                                    lineNumber: 61,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34290,7 +34311,7 @@ const Screen12 = ()=>{
                                                 src: "/img/rectangle-16-4.svg"
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 83,
+                                                lineNumber: 93,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -34299,122 +34320,122 @@ const Screen12 = ()=>{
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BB1\u0BAE\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 85,
+                                                        lineNumber: 95,
                                                         columnNumber: 39
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA4\u0BC6\u0BAF\u0BCD\u0BB5\u0BAE\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 86,
+                                                        lineNumber: 96,
                                                         columnNumber: 42
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BB1\u0BBF\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 87,
+                                                        lineNumber: 97,
                                                         columnNumber: 43
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA8\u0BC1\u0BA3\u0BCD\u0BA3\u0BB1\u0BBF\u0BB5\u0BC1",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 88,
+                                                        lineNumber: 98,
                                                         columnNumber: 44
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0B89\u0BB5\u0BC8\u0BAE\u0B95\u0BB3\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 89,
+                                                        lineNumber: 99,
                                                         columnNumber: 38
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA8\u0B9F\u0BCD\u0BAA\u0BC1",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 90,
+                                                        lineNumber: 100,
                                                         columnNumber: 40
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0BB5\u0BBF\u0BB2\u0B99\u0BCD\u0B95\u0BC1\u0B95\u0BB3\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 91,
+                                                        lineNumber: 101,
                                                         columnNumber: 41
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0B95\u0BB1\u0BCD\u0BAA\u0BC1",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 92,
+                                                        lineNumber: 102,
                                                         columnNumber: 42
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0BA8\u0BA9\u0BCD\u0BB1\u0BBF",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 93,
+                                                        lineNumber: 103,
                                                         columnNumber: 42
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0B92\u0BB4\u0BC1\u0B95\u0BCD\u0B95\u0BAE\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 94,
+                                                        lineNumber: 104,
                                                         columnNumber: 45
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BB0\u0B9A\u0BBF\u0BAF\u0BB2\u0BCD \u0BAE\u0BC1\u0BB1\u0BC8\u0B95\u0BB3\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 95,
+                                                        lineNumber: 105,
                                                         columnNumber: 53
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B89\u0BB3\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD \u0BA8\u0BC7\u0BBE\u0B95\u0BCD\u0B95\u0BC1",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 96,
+                                                        lineNumber: 106,
                                                         columnNumber: 44
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0B95\u0BC1\u0B9F\u0BC1\u0BAE\u0BCD\u0BAA\u0BAE\u0BC1\u0BAE\u0BCD \u0BAE\u0BA9\u0BBF\u0BA4 \u0B89\u0BB1\u0BB5\u0BC1\u0B95\u0BB3\u0BC1\u0BAE\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 97,
+                                                        lineNumber: 107,
                                                         columnNumber: 57
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0B9A\u0BAE\u0BC2\u0B95\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD \u0B9A\u0BBF\u0BA8\u0BCD\u0BA4\u0BC8\u0BA9\u0B95\u0BB3\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 98,
+                                                        lineNumber: 108,
                                                         columnNumber: 51
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BB0\u0B9A\u0BBF\u0BAF\u0BB2\u0BCD \u0BA8\u0BC6\u0BB1\u0BBF\u0BAE\u0BC1\u0BB1\u0BC8\u0B95\u0BB3\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 99,
+                                                        lineNumber: 109,
                                                         columnNumber: 57
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0BAE\u0BC6\u0BAF\u0BCD\u0BAF\u0BBF\u0BAF\u0BB2\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 100,
+                                                        lineNumber: 110,
                                                         columnNumber: 54
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BC1\u0BAE\u0BCD \u0BAA\u0BC6\u0BA3\u0BCD\u0B95\u0BB3\u0BC1\u0BAE\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 101,
+                                                        lineNumber: 111,
                                                         columnNumber: 40
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BC1\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAA\u0BCA\u0BA4\u0BC1\u0BB5\u0BC1\u0B9F\u0BC8\u0BAE\u0BC8",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 102,
+                                                        lineNumber: 112,
                                                         columnNumber: 50
                                                     }, undefined),
                                                     "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0B9A\u0BC1\u0BB1\u0BCD\u0BB1\u0BC1\u0B9A\u0BCD\u0B9A\u0BC2\u0BB4\u0BB2\u0BCD \u0B9A\u0BBF\u0BA8\u0BCD\u0BA4\u0BC8\u0BA9\u0B95\u0BB3\u0BCD",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 103,
+                                                        lineNumber: 113,
                                                         columnNumber: 55
                                                     }, undefined),
                                                     "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0BAE\u0BC1\u0BAF\u0BB1\u0BCD\u0B9A\u0BBF"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 84,
+                                                lineNumber: 94,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34423,7 +34444,7 @@ const Screen12 = ()=>{
                                                 src: "/img/image-24-1.png"
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 106,
+                                                lineNumber: 116,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34432,18 +34453,18 @@ const Screen12 = ()=>{
                                                 src: "/img/image-22-1.png"
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 107,
+                                                lineNumber: 117,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                        lineNumber: 82,
+                                        lineNumber: 92,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 81,
+                                    lineNumber: 91,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -34451,13 +34472,13 @@ const Screen12 = ()=>{
                                     children: "2024 \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0B9A\u0BBF\u0BB2 \u0BA4\u0BB2\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD - \u0BAE\u0BBE\u0BA4\u0BBF\u0BB0\u0BBF\u0B95\u0BB3\u0BCD"
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 110,
+                                    lineNumber: 120,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/Screen12/Screen12.jsx",
-                            lineNumber: 48,
+                            lineNumber: 58,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34468,10 +34489,10 @@ const Screen12 = ()=>{
                                     children: [
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                             className: "text-wrapper-136",
-                                            children: "On March 2024 we are planning to conduct 4th Schaumburg Tamil Fair organised by Thamizh school USA for all Tamil learning students.. The main theme of this fair is \u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0BAA\u0BA3\u0BCD\u0BAA\u0BBE\u0B9F\u0BC1. This will be educational research experience for the parents, kids and visitors. This project is collaboration among Tamil scholar, grand parents, parents, and students. We give sample project, and some documents about the topic for a good start. During the Schaumburg Tamil Fair 2024, Each student will be the representatives of their project, present it through a tri-fold poster board."
+                                            children: '\u0BAE\u0BBE\u0BB0\u0BCD\u0B9A\u0BCD 23, 2024 \u0B85\u0BA9\u0BCD\u0BB1\u0BC1, 2024 \u0B86\u0BAE\u0BCD \u0B86\u0BA3\u0BCD\u0B9F\u0BBF\u0BB1\u0BCD\u0B95\u0BBE\u0BA9 4\u0BB5\u0BA4\u0BC1 \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BC1\xa0 \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B95\u0BA3\u0BCD\u0B95\u0BBE\u0B9F\u0BCD\u0B9A\u0BBF\u0BAF\u0BC8 \u0B89\u0BB2\u0B95\u0BAE\u0BCD \u0BAE\u0BC1\u0BB4\u0BC1\u0BB5\u0BA4\u0BBF\u0BB2\u0BC1\u0BAE\u0BCD  \u0B89\u0BB3\u0BCD\u0BB3 \u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC1 \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD (\u0BB5\u0BAF\u0BA4\u0BC1 5 \u2013 17 / \u0BB5\u0B95\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1 1-12) \u0B85\u0BAE\u0BC6\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BA4\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD\u0BAA\u0BCD \u0BAA\u0BB3\u0BCD\u0BB3\u0BBF\u0B95\u0BB3\u0BCD\xa0 \u0BAE\u0BC2\u0BB2\u0BAE\u0BCD \u0BA8\u0B9F\u0BA4\u0BCD\u0BA4\u0BA4\u0BCD \u0BA4\u0BBF\u0B9F\u0BCD\u0B9F\u0BAE\u0BBF\u0B9F\u0BCD\u0B9F\u0BC1\u0BB3\u0BCD\u0BB3\u0BCB\u0BAE\u0BCD. \u0B87\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0B95\u0BBE\u0B9F\u0BCD\u0B9A\u0BBF\u0BAF\u0BBF\u0BA9\u0BCD \u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF \u0B95\u0BB0\u0BC1 "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0BAA\u0BA3\u0BCD\u0BAA\u0BBE\u0B9F\u0BC1".\u0B87\u0BA4\u0BC1 \u0BAA\u0BC6\u0BB1\u0BCD\u0BB1\u0BCB\u0BB0\u0BCD\u0B95\u0BB3\u0BCD, \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BAA\u0BBE\u0BB0\u0BCD\u0BB5\u0BC8\u0BAF\u0BBE\u0BB3\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BBE\u0BA9 \u0B95\u0BB2\u0BCD\u0BB5\u0BBF \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BAE\u0BBE\u0B95 \u0B87\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD. \u0B87\u0BA8\u0BCD\u0BA4 \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B85\u0BB1\u0BBF\u0B9E\u0BB0\u0BCD\u0B95\u0BB3\u0BCD, \u0BA4\u0BBE\u0BA4\u0BCD\u0BA4\u0BBE, \u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF, \u0BAA\u0BC6\u0BB1\u0BCD\u0BB1\u0BCB\u0BB0\u0BCD\u0B95\u0BB3\u0BCD, \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD \u0B85\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BBE\u0BA9 \u0B92\u0BB0\u0BC1 \u0B95\u0BC2\u0B9F\u0BCD\u0B9F\u0BC1 \u0BAE\u0BC1\u0BAF\u0BB1\u0BCD\u0B9A\u0BBF.'
                                         }, void 0, false, {
                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                            lineNumber: 114,
+                                            lineNumber: 124,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34482,7 +34503,7 @@ const Screen12 = ()=>{
                                                     children: "Register"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 122,
+                                                    lineNumber: 129,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34490,7 +34511,7 @@ const Screen12 = ()=>{
                                                     children: "Research"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 123,
+                                                    lineNumber: 130,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34498,7 +34519,7 @@ const Screen12 = ()=>{
                                                     children: "Choose Topic"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 124,
+                                                    lineNumber: 131,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34506,7 +34527,7 @@ const Screen12 = ()=>{
                                                     children: "Evaluate"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 125,
+                                                    lineNumber: 132,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34514,7 +34535,7 @@ const Screen12 = ()=>{
                                                     children: "Paper Presentation"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 126,
+                                                    lineNumber: 133,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34522,7 +34543,7 @@ const Screen12 = ()=>{
                                                     children: "How it works?"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 127,
+                                                    lineNumber: 134,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34530,7 +34551,7 @@ const Screen12 = ()=>{
                                                     children: ""
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 128,
+                                                    lineNumber: 135,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34539,7 +34560,7 @@ const Screen12 = ()=>{
                                                     src: "/img/image-31.png"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 129,
+                                                    lineNumber: 136,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34548,7 +34569,7 @@ const Screen12 = ()=>{
                                                     src: "/img/image-32.png"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 130,
+                                                    lineNumber: 137,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34557,7 +34578,7 @@ const Screen12 = ()=>{
                                                     src: "/img/image-35.png"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 131,
+                                                    lineNumber: 138,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34566,7 +34587,7 @@ const Screen12 = ()=>{
                                                     src: "/img/image-33.png"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 132,
+                                                    lineNumber: 139,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34575,7 +34596,7 @@ const Screen12 = ()=>{
                                                     src: "/img/image-34.png"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 133,
+                                                    lineNumber: 140,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34584,27 +34605,27 @@ const Screen12 = ()=>{
                                                     src: "/img/line-1-2.svg"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 134,
+                                                    lineNumber: 141,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                            lineNumber: 121,
+                                            lineNumber: 128,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 113,
+                                    lineNumber: 123,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                     className: "text-wrapper-143",
-                                    children: "The top students for each level will be recognized. Also top students will be showcase their project and recognized by giving trophies during the 5th World Thirukkural Conference at Chicago conduct by Chicago Tamil Sangam/IAS/IATR on April 5-7, 2024. We are confident that it would be an invigorating and rewarding experience for the parents and the students. We would leave it up to parents and students to use their imagination, creativity and their passion to showcase their talent."
+                                    children: "\u0B92\u0BB5\u0BCD\u0BB5\u0BCA\u0BB0\u0BC1 \u0BA8\u0BBF\u0BB2\u0BC8\u0BAF\u0BBF\u0BB2\u0BC1\u0BAE\u0BCD \u0B9A\u0BBF\u0BB1\u0BA8\u0BCD\u0BA4 \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BC1 \u0B85\u0B99\u0BCD\u0B95\u0BC0\u0B95\u0BBE\u0BB0\u0BAE\u0BCD \u0BA4\u0BB0\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0BAE\u0BCD, \u0BAE\u0BC7\u0BB2\u0BC1\u0BAE\u0BCD \u0B85\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BBF\u0BA9\u0BCD \u0BAA\u0B9F\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD \u0B9A\u0BBF\u0B95\u0BBE\u0B95\u0BCB \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B9A\u0B99\u0BCD\u0B95\u0BAE\u0BCD, \u0B86\u0B9A\u0BBF\u0BAF\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD \u0BA8\u0BBF\u0BB1\u0BC1\u0BB5\u0BA9\u0BAE\u0BCD, \u0B89\u0BB2\u0B95\u0BA4\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0BAE\u0BA9\u0BCD\u0BB1\u0BAE\u0BCD \u0B85\u0BAE\u0BC6\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BBE \u0B85\u0B95\u0BBF\u0BAF\u0BCB\u0BB0\u0BCD\u0B95\u0BB3\u0BBE\u0BB2\u0BCD \u0BB5\u0BB0\u0BC1\u0BAE\u0BCD \u0B8F\u0BAA\u0BCD\u0BB0\u0BB2\u0BCD 06, 2024 \u0BA8\u0B9F\u0BA4\u0BCD\u0BA4\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0BAE\u0BCD 5\u0BB5\u0BA4\u0BC1 \u0B89\u0BB2\u0B95 \u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0BAE\u0BBE\u0BA8\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF\u0BB2\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9A\u0BBF\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0BA4\u0BCD\u0BA4 \u0B92\u0BB0\u0BC1 \u0BB5\u0BBE\u0BAF\u0BCD\u0BAA\u0BCD\u0BAA\u0BC1 \u0BB5\u0BB4\u0B99\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0BAE\u0BCD.\u0BB5\u0BC6\u0BB3\u0BBF\u0BA8\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1 \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD \u0B95\u0BBE\u0BA3\u0BCA\u0BB3\u0BBF \u0BB5\u0BBE\u0BAF\u0BBF\u0BB2\u0BBE\u0B95 \u0BAE\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BC0\u0B9F\u0BC1 \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0BB5\u0BBE\u0BB0\u0BCD\u0B95\u0BB3\u0BCD."
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 137,
+                                    lineNumber: 145,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34613,7 +34634,7 @@ const Screen12 = ()=>{
                                     src: "/img/image-45.png"
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 144,
+                                    lineNumber: 148,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34629,41 +34650,41 @@ const Screen12 = ()=>{
                                                         className: "overlap-group-25",
                                                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                             className: "text-wrapper-144",
-                                                            children: "2023 Research Articles"
+                                                            children: "2024 Research Articles"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                                            lineNumber: 150,
+                                                            lineNumber: 154,
                                                             columnNumber: 23
                                                         }, undefined)
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 149,
+                                                        lineNumber: 153,
                                                         columnNumber: 21
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 148,
+                                                    lineNumber: 152,
                                                     columnNumber: 19
                                                 }, undefined)
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 147,
+                                                lineNumber: 151,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                 className: "text-wrapper-145",
-                                                children: "2023 \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0BAA\u0BC1\u0BB3\u0BCD\u0BB3\u0BBF\u0BB5\u0BBF\u0BB5\u0BB0\u0B99\u0BCD\u0B95\u0BB3\u0BCD"
+                                                children: "2024 \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0BAA\u0BC1\u0BB3\u0BCD\u0BB3\u0BBF\u0BB5\u0BBF\u0BB5\u0BB0\u0B99\u0BCD\u0B95\u0BB3\u0BCD"
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 154,
+                                                lineNumber: 158,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                 className: "text-wrapper-146",
-                                                children: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BC1\u0BAE\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0BAA\u0BA3\u0BCD\u0BAA\u0BBE\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BA9\u0BBF\u0BA4\u0BB0\u0BCD\u0B95\u0BB3\u0BC8 \u0B8E\u0BB5\u0BCD\u0BB5\u0BBE\u0BB1\u0BC1 \u0BA4\u0BA9\u0BBF \u0B9A\u0BBF\u0BB1\u0BAA\u0BCD\u0BAA\u0BC1\u0BAE\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BB0\u0BBE\u0B95 \u0BAE\u0BBE\u0BB1\u0BCD\u0BB1\u0BC1\u0B95\u0BBF\u0BB1\u0BA4\u0BC1"
+                                                children: "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0BAE\u0BA9\u0BBF\u0BA4\u0BB0\u0BCD\u0B95\u0BB3\u0BC8 \u0B8E\u0BB5\u0BCD\u0BB5\u0BBE\u0BB1\u0BC1 \u0BA4\u0BA9\u0BBF\u0B9A\u0BCD \u0B9A\u0BBF\u0BB1\u0BAA\u0BCD\u0BAA\u0BC1\u0B9F\u0BC8\u0BAF\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BBE\u0B95 \u0BAE\u0BBE\u0BB1\u0BCD\u0BB1\u0BC1\u0B95\u0BBF\u0BB1\u0BA4\u0BC1"
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 155,
+                                                lineNumber: 159,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34674,18 +34695,18 @@ const Screen12 = ()=>{
                                                         children: [
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                                 className: "text-wrapper-147",
-                                                                children: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0BAA\u0BA3\u0BCD\u0BAA\u0BBE\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
+                                                                children: "\u0BA4\u0BBF\u0BB0\u0BC1\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0B95\u0BCD \u0B95\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BCA\u0BB0\u0BC1\u0BB3\u0BCD"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                lineNumber: 160,
+                                                                lineNumber: 164,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                                 className: "text-wrapper-148",
-                                                                children: "28"
+                                                                children: "50"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                lineNumber: 161,
+                                                                lineNumber: 165,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34697,7 +34718,7 @@ const Screen12 = ()=>{
                                                                             className: "ellipse-16"
                                                                         }, void 0, false, {
                                                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                            lineNumber: 164,
+                                                                            lineNumber: 168,
                                                                             columnNumber: 25
                                                                         }, undefined),
                                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34706,24 +34727,24 @@ const Screen12 = ()=>{
                                                                             src: "/img/image-37.png"
                                                                         }, void 0, false, {
                                                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                            lineNumber: 165,
+                                                                            lineNumber: 169,
                                                                             columnNumber: 25
                                                                         }, undefined)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                    lineNumber: 163,
+                                                                    lineNumber: 167,
                                                                     columnNumber: 23
                                                                 }, undefined)
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                lineNumber: 162,
+                                                                lineNumber: 166,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 159,
+                                                        lineNumber: 163,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34734,7 +34755,7 @@ const Screen12 = ()=>{
                                                                 children: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                lineNumber: 170,
+                                                                lineNumber: 174,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34742,7 +34763,7 @@ const Screen12 = ()=>{
                                                                 children: "58"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                lineNumber: 171,
+                                                                lineNumber: 175,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34754,7 +34775,7 @@ const Screen12 = ()=>{
                                                                             className: "ellipse-17"
                                                                         }, void 0, false, {
                                                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                            lineNumber: 174,
+                                                                            lineNumber: 178,
                                                                             columnNumber: 25
                                                                         }, undefined),
                                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34763,24 +34784,24 @@ const Screen12 = ()=>{
                                                                             src: "/img/image-28.png"
                                                                         }, void 0, false, {
                                                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                            lineNumber: 175,
+                                                                            lineNumber: 179,
                                                                             columnNumber: 25
                                                                         }, undefined)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                    lineNumber: 173,
+                                                                    lineNumber: 177,
                                                                     columnNumber: 23
                                                                 }, undefined)
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                lineNumber: 172,
+                                                                lineNumber: 176,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 169,
+                                                        lineNumber: 173,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34791,7 +34812,7 @@ const Screen12 = ()=>{
                                                                 children: "\u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0B95\u0BBE\u0BB2\u0BAE\u0BCD"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                lineNumber: 180,
+                                                                lineNumber: 184,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34799,7 +34820,7 @@ const Screen12 = ()=>{
                                                                 children: "100 \u0BA8\u0BBE\u0B9F\u0BCD\u0B95\u0BB3\u0BCD"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                lineNumber: 181,
+                                                                lineNumber: 185,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34811,7 +34832,7 @@ const Screen12 = ()=>{
                                                                             className: "ellipse-18"
                                                                         }, void 0, false, {
                                                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                            lineNumber: 184,
+                                                                            lineNumber: 188,
                                                                             columnNumber: 25
                                                                         }, undefined),
                                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -34820,30 +34841,30 @@ const Screen12 = ()=>{
                                                                             src: "/img/image-29.png"
                                                                         }, void 0, false, {
                                                                             fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                            lineNumber: 185,
+                                                                            lineNumber: 189,
                                                                             columnNumber: 25
                                                                         }, undefined)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                    lineNumber: 183,
+                                                                    lineNumber: 187,
                                                                     columnNumber: 23
                                                                 }, undefined)
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                                lineNumber: 182,
+                                                                lineNumber: 186,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 179,
+                                                        lineNumber: 183,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 158,
+                                                lineNumber: 162,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34857,40 +34878,40 @@ const Screen12 = ()=>{
                                                         src: "/img/image-36.png"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                                        lineNumber: 191,
+                                                        lineNumber: 195,
                                                         columnNumber: 79
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                                    lineNumber: 191,
+                                                    lineNumber: 195,
                                                     columnNumber: 19
                                                 }, undefined)
                                             }, void 0, false, {
                                                 fileName: "src/screens/Screen12/Screen12.jsx",
-                                                lineNumber: 190,
+                                                lineNumber: 194,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/Screen12/Screen12.jsx",
-                                        lineNumber: 146,
+                                        lineNumber: 150,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/Screen12/Screen12.jsx",
-                                    lineNumber: 145,
+                                    lineNumber: 149,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/Screen12/Screen12.jsx",
-                            lineNumber: 112,
+                            lineNumber: 122,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/Screen12/Screen12.jsx",
-                    lineNumber: 47,
+                    lineNumber: 57,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _component.Component), {
@@ -34898,7 +34919,7 @@ const Screen12 = ()=>{
                     href: "mailto:thamizh.research.usa@gmail.com"
                 }, void 0, false, {
                     fileName: "src/screens/Screen12/Screen12.jsx",
-                    lineNumber: 197,
+                    lineNumber: 201,
                     columnNumber: 9
                 }, undefined)
             ]
@@ -34922,7 +34943,7 @@ $RefreshReg$(_c, "Screen12");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","../../components/Component":"eLDOD","../../components/Image":"i0rV2","./style.css":"3MP81","./styleWithButton.css":"cRy9N","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"eLDOD":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","../../components/Component":"eLDOD","../../components/Image":"i0rV2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./style.css":"3MP81","./styleWithButton.css":"cRy9N"}],"eLDOD":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Component", ()=>(0, _component.Component));
@@ -36469,48 +36490,67 @@ const IphonePlus = ()=>{
                     children: [
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                             className: "button",
-                            children: [
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                    className: "overlap-group-5",
-                                    children: [
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                                            className: "rectangle-3",
-                                            href: "https://docs.google.com/forms/d/e/1FAIpQLSc2MHtkp-xyJewRHGusKrn0GYXrggeoheoW25-OoQRXH-ZnMw/viewform",
-                                            rel: "noopener noreferrer",
-                                            target: "_blank"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 13,
-                                            columnNumber: 15
-                                        }, undefined),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                            className: "text-wrapper-19",
-                                            children: "Register"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 19,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                    lineNumber: 12,
-                                    columnNumber: 13
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                    className: "text-wrapper-20",
-                                    to: "/iphone-8-plus-2",
-                                    children: "Learn More"
+                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                className: "overlap-group-5",
+                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                                    className: "rectangle-3",
+                                    href: "https://drive.google.com/drive/folders/1fwZhUvKezsO7CIDFHMAVfKJrQr6XXThr?usp=share_link",
+                                    rel: "noopener noreferrer",
+                                    target: "_blank",
+                                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        className: "text-wrapper-19",
+                                        children: "\u0BA8\u0BBF\u0BB2\u0BC8 1 \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF"
+                                    }, void 0, false, {
+                                        fileName: "src/screens/IphonePlus/IphonePlus.jsx",
+                                        lineNumber: 19,
+                                        columnNumber: 21
+                                    }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                    lineNumber: 21,
-                                    columnNumber: 13
+                                    lineNumber: 14,
+                                    columnNumber: 17
                                 }, undefined)
-                            ]
-                        }, void 0, true, {
+                            }, void 0, false, {
+                                fileName: "src/screens/IphonePlus/IphonePlus.jsx",
+                                lineNumber: 13,
+                                columnNumber: 15
+                            }, undefined)
+                        }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 11,
+                            lineNumber: 12,
                             columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "button2",
+                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                className: "overlap-group-5",
+                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                                    className: "rectangle-3",
+                                    href: "https://drive.google.com/drive/folders/1R9PfYGXqETZqKrJNh-TFLUm8vMRwa2us?usp=share_link",
+                                    rel: "noopener noreferrer",
+                                    target: "_blank",
+                                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        className: "text-wrapper-19",
+                                        children: "\u0BA8\u0BBF\u0BB2\u0BC8 2 \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF"
+                                    }, void 0, false, {
+                                        fileName: "src/screens/IphonePlus/IphonePlus.jsx",
+                                        lineNumber: 30,
+                                        columnNumber: 21
+                                    }, undefined)
+                                }, void 0, false, {
+                                    fileName: "src/screens/IphonePlus/IphonePlus.jsx",
+                                    lineNumber: 25,
+                                    columnNumber: 17
+                                }, undefined)
+                            }, void 0, false, {
+                                fileName: "src/screens/IphonePlus/IphonePlus.jsx",
+                                lineNumber: 24,
+                                columnNumber: 15
+                            }, undefined)
+                        }, void 0, false, {
+                            fileName: "src/screens/IphonePlus/IphonePlus.jsx",
+                            lineNumber: 23,
+                            columnNumber: 13
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
                             to: "/iphone-8-plus-5",
@@ -36520,12 +36560,12 @@ const IphonePlus = ()=>{
                                 src: "/img/image-46.png"
                             }, void 0, false, {
                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                lineNumber: 26,
+                                lineNumber: 36,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 25,
+                            lineNumber: 35,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36534,7 +36574,7 @@ const IphonePlus = ()=>{
                             src: "/img/resarch-badge2024-2.png"
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 28,
+                            lineNumber: 38,
                             columnNumber: 11
                         }, undefined)
                     ]
@@ -36548,18 +36588,18 @@ const IphonePlus = ()=>{
                     children: [
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                             className: "text-wrapper-21",
-                            children: "On March 2024 we are planning to conduct 4th Schaumburg Tamil Fair organised by Thamizh school USA for all Tamil learning students. The main theme of this fair is \u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0BAA\u0BA3\u0BCD\u0BAA\u0BBE\u0B9F\u0BC1. This will be educational research experience for the parents, kids and visitors. This project is collaboration among Tamil scholar, grand parents, parents, and students. We give sample project, and some documents about the topic for a good start. During the Schaumburg Tamil Fair 2024, Each student will be the representatives of their project, present it through a tri-fold poster board."
+                            children: '\u0BAE\u0BBE\u0BB0\u0BCD\u0B9A\u0BCD 23, 2024 \u0B85\u0BA9\u0BCD\u0BB1\u0BC1, 2024 \u0B86\u0BAE\u0BCD \u0B86\u0BA3\u0BCD\u0B9F\u0BBF\u0BB1\u0BCD\u0B95\u0BBE\u0BA9 4\u0BB5\u0BA4\u0BC1 \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BC1\xa0 \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B95\u0BA3\u0BCD\u0B95\u0BBE\u0B9F\u0BCD\u0B9A\u0BBF\u0BAF\u0BC8 \u0B89\u0BB2\u0B95\u0BAE\u0BCD \u0BAE\u0BC1\u0BB4\u0BC1\u0BB5\u0BA4\u0BBF\u0BB2\u0BC1\u0BAE\u0BCD  \u0B89\u0BB3\u0BCD\u0BB3 \u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC1 \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD (\u0BB5\u0BAF\u0BA4\u0BC1 5 \u2013 17 / \u0BB5\u0B95\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1 1-12) \u0B85\u0BAE\u0BC6\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BA4\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD\u0BAA\u0BCD \u0BAA\u0BB3\u0BCD\u0BB3\u0BBF\u0B95\u0BB3\u0BCD\xa0 \u0BAE\u0BC2\u0BB2\u0BAE\u0BCD \u0BA8\u0B9F\u0BA4\u0BCD\u0BA4\u0BA4\u0BCD \u0BA4\u0BBF\u0B9F\u0BCD\u0B9F\u0BAE\u0BBF\u0B9F\u0BCD\u0B9F\u0BC1\u0BB3\u0BCD\u0BB3\u0BCB\u0BAE\u0BCD. \u0B87\u0BA8\u0BCD\u0BA4 \u0B95\u0BA3\u0BCD\u0B95\u0BBE\u0B9F\u0BCD\u0B9A\u0BBF\u0BAF\u0BBF\u0BA9\u0BCD \u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF \u0B95\u0BB0\u0BC1 "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0BAA\u0BA3\u0BCD\u0BAA\u0BBE\u0B9F\u0BC1".\u0B87\u0BA4\u0BC1 \u0BAA\u0BC6\u0BB1\u0BCD\u0BB1\u0BCB\u0BB0\u0BCD\u0B95\u0BB3\u0BCD, \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BAA\u0BBE\u0BB0\u0BCD\u0BB5\u0BC8\u0BAF\u0BBE\u0BB3\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BBE\u0BA9 \u0B95\u0BB2\u0BCD\u0BB5\u0BBF \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BAE\u0BBE\u0B95 \u0B87\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD. \u0B87\u0BA8\u0BCD\u0BA4 \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B85\u0BB1\u0BBF\u0B9E\u0BB0\u0BCD\u0B95\u0BB3\u0BCD, \u0BA4\u0BBE\u0BA4\u0BCD\u0BA4\u0BBE, \u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF, \u0BAA\u0BC6\u0BB1\u0BCD\u0BB1\u0BCB\u0BB0\u0BCD\u0B95\u0BB3\u0BCD, \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD \u0B85\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BBE\u0BA9 \u0B92\u0BB0\u0BC1 \u0B95\u0BC2\u0B9F\u0BCD\u0B9F\u0BC1 \u0BAE\u0BC1\u0BAF\u0BB1\u0BCD\u0B9A\u0BBF.'
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 31,
+                            lineNumber: 41,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                             className: "text-wrapper-22",
-                            children: "The top students for each level will be recognized. Also top students will be showcase their project and recognized by giving trophies during the 5th World Thirukkural Conference at Chicago conduct by Chicago Tamil Sangam/IAS/IATR on April 5-7, 2024. We are confident that it would be an invigorating and rewarding experience for the parents and the students. We would leave it up to parents and students to use their imagination, creativity and their passion to showcase their talent."
+                            children: "\u0B92\u0BB5\u0BCD\u0BB5\u0BCA\u0BB0\u0BC1 \u0BA8\u0BBF\u0BB2\u0BC8\u0BAF\u0BBF\u0BB2\u0BC1\u0BAE\u0BCD \u0B9A\u0BBF\u0BB1\u0BA8\u0BCD\u0BA4 \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BC1 \u0B85\u0B99\u0BCD\u0B95\u0BC0\u0B95\u0BBE\u0BB0\u0BAE\u0BCD \u0BA4\u0BB0\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0BAE\u0BCD, \u0BAE\u0BC7\u0BB2\u0BC1\u0BAE\u0BCD \u0B85\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BBF\u0BA9\u0BCD \u0BAA\u0B9F\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD \u0B9A\u0BBF\u0B95\u0BBE\u0B95\u0BCB \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B9A\u0B99\u0BCD\u0B95\u0BAE\u0BCD, \u0B86\u0B9A\u0BBF\u0BAF\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD \u0BA8\u0BBF\u0BB1\u0BC1\u0BB5\u0BA9\u0BAE\u0BCD, \u0B89\u0BB2\u0B95\u0BA4\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0BAE\u0BA9\u0BCD\u0BB1\u0BAE\u0BCD \u0B85\u0BAE\u0BC6\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BBE \u0B85\u0B95\u0BBF\u0BAF\u0BCB\u0BB0\u0BCD\u0B95\u0BB3\u0BBE\u0BB2\u0BCD \u0BB5\u0BB0\u0BC1\u0BAE\u0BCD \u0B8F\u0BAA\u0BCD\u0BB0\u0BB2\u0BCD 06, 2024 \u0BA8\u0B9F\u0BA4\u0BCD\u0BA4\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0BAE\u0BCD 5\u0BB5\u0BA4\u0BC1 \u0B89\u0BB2\u0B95 \u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0BAE\u0BBE\u0BA8\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF\u0BB2\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9A\u0BBF\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0BA4\u0BCD\u0BA4 \u0B92\u0BB0\u0BC1 \u0BB5\u0BBE\u0BAF\u0BCD\u0BAA\u0BCD\u0BAA\u0BC1 \u0BB5\u0BB4\u0B99\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0BAE\u0BCD.\u0BB5\u0BC6\u0BB3\u0BBF\u0BA8\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1 \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD \u0B95\u0BBE\u0BA3\u0BCA\u0BB3\u0BBF \u0BB5\u0BBE\u0BAF\u0BBF\u0BB2\u0BBE\u0B95 \u0BAE\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BC0\u0B9F\u0BC1 \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0BB5\u0BBE\u0BB0\u0BCD\u0B95\u0BB3\u0BCD."
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 38,
+                            lineNumber: 44,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -36574,7 +36614,7 @@ const IphonePlus = ()=>{
                                             src: "/img/image-33.png"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 47,
+                                            lineNumber: 49,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36583,7 +36623,7 @@ const IphonePlus = ()=>{
                                             src: "/img/image-34.png"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 48,
+                                            lineNumber: 50,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -36591,7 +36631,7 @@ const IphonePlus = ()=>{
                                             children: "Research"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 49,
+                                            lineNumber: 51,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -36599,7 +36639,7 @@ const IphonePlus = ()=>{
                                             children: "Evaluate"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 50,
+                                            lineNumber: 52,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -36607,7 +36647,7 @@ const IphonePlus = ()=>{
                                             children: "Paper Presentation"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 51,
+                                            lineNumber: 53,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -36615,7 +36655,7 @@ const IphonePlus = ()=>{
                                             children: "Register"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 52,
+                                            lineNumber: 54,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -36623,7 +36663,7 @@ const IphonePlus = ()=>{
                                             children: "Choose Topic"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 53,
+                                            lineNumber: 55,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36632,7 +36672,7 @@ const IphonePlus = ()=>{
                                             src: "/img/image-31.png"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 54,
+                                            lineNumber: 56,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36641,7 +36681,7 @@ const IphonePlus = ()=>{
                                             src: "/img/image-32.png"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 55,
+                                            lineNumber: 57,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36650,13 +36690,13 @@ const IphonePlus = ()=>{
                                             src: "/img/image-35.png"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 56,
+                                            lineNumber: 58,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                    lineNumber: 46,
+                                    lineNumber: 48,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36665,13 +36705,13 @@ const IphonePlus = ()=>{
                                     src: "/img/line-1.svg"
                                 }, void 0, false, {
                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                    lineNumber: 58,
+                                    lineNumber: 60,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 45,
+                            lineNumber: 47,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36680,7 +36720,7 @@ const IphonePlus = ()=>{
                             src: "/img/image-45.png"
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 60,
+                            lineNumber: 62,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -36688,13 +36728,13 @@ const IphonePlus = ()=>{
                             children: "How it works?"
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 61,
+                            lineNumber: 63,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                    lineNumber: 30,
+                    lineNumber: 40,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -36705,7 +36745,7 @@ const IphonePlus = ()=>{
                             children: "Research Topics"
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 64,
+                            lineNumber: 67,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36714,7 +36754,7 @@ const IphonePlus = ()=>{
                             src: "/img/line-1-1.svg"
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 65,
+                            lineNumber: 68,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -36722,7 +36762,7 @@ const IphonePlus = ()=>{
                             children: "2024 \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0B9A\u0BBF\u0BB2 \u0BA4\u0BB2\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD - \u0BAE\u0BBE\u0BA4\u0BBF\u0BB0\u0BBF\u0B95\u0BB3\u0BCD"
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 66,
+                            lineNumber: 69,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -36736,7 +36776,7 @@ const IphonePlus = ()=>{
                                         src: "/img/rectangle-16.svg"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 69,
+                                        lineNumber: 72,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -36745,122 +36785,122 @@ const IphonePlus = ()=>{
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BB1\u0BAE\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 71,
+                                                lineNumber: 74,
                                                 columnNumber: 37
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA4\u0BC6\u0BAF\u0BCD\u0BB5\u0BAE\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 72,
+                                                lineNumber: 75,
                                                 columnNumber: 40
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BB1\u0BBF\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 73,
+                                                lineNumber: 76,
                                                 columnNumber: 41
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA8\u0BC1\u0BA3\u0BCD\u0BA3\u0BB1\u0BBF\u0BB5\u0BC1",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 74,
+                                                lineNumber: 77,
                                                 columnNumber: 42
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0B89\u0BB5\u0BC8\u0BAE\u0B95\u0BB3\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 75,
+                                                lineNumber: 78,
                                                 columnNumber: 36
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA8\u0B9F\u0BCD\u0BAA\u0BC1",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 76,
+                                                lineNumber: 79,
                                                 columnNumber: 38
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0BB5\u0BBF\u0BB2\u0B99\u0BCD\u0B95\u0BC1\u0B95\u0BB3\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 77,
+                                                lineNumber: 80,
                                                 columnNumber: 39
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0B95\u0BB1\u0BCD\u0BAA\u0BC1",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 78,
+                                                lineNumber: 81,
                                                 columnNumber: 40
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0BA8\u0BA9\u0BCD\u0BB1\u0BBF",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 79,
+                                                lineNumber: 82,
                                                 columnNumber: 40
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0B92\u0BB4\u0BC1\u0B95\u0BCD\u0B95\u0BAE\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 80,
+                                                lineNumber: 83,
                                                 columnNumber: 43
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BB0\u0B9A\u0BBF\u0BAF\u0BB2\u0BCD \u0BAE\u0BC1\u0BB1\u0BC8\u0B95\u0BB3\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 81,
+                                                lineNumber: 84,
                                                 columnNumber: 51
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B89\u0BB3\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD \u0BA8\u0BC7\u0BBE\u0B95\u0BCD\u0B95\u0BC1",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 82,
+                                                lineNumber: 85,
                                                 columnNumber: 42
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0B95\u0BC1\u0B9F\u0BC1\u0BAE\u0BCD\u0BAA\u0BAE\u0BC1\u0BAE\u0BCD \u0BAE\u0BA9\u0BBF\u0BA4 \u0B89\u0BB1\u0BB5\u0BC1\u0B95\u0BB3\u0BC1\u0BAE\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 83,
+                                                lineNumber: 86,
                                                 columnNumber: 55
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0B9A\u0BAE\u0BC2\u0B95\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD \u0B9A\u0BBF\u0BA8\u0BCD\u0BA4\u0BC8\u0BA9\u0B95\u0BB3\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 84,
+                                                lineNumber: 87,
                                                 columnNumber: 49
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BB0\u0B9A\u0BBF\u0BAF\u0BB2\u0BCD \u0BA8\u0BC6\u0BB1\u0BBF\u0BAE\u0BC1\u0BB1\u0BC8\u0B95\u0BB3\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 85,
+                                                lineNumber: 88,
                                                 columnNumber: 55
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0BAE\u0BC6\u0BAF\u0BCD\u0BAF\u0BBF\u0BAF\u0BB2\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 86,
+                                                lineNumber: 89,
                                                 columnNumber: 52
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BC1\u0BAE\u0BCD \u0BAA\u0BC6\u0BA3\u0BCD\u0B95\u0BB3\u0BC1\u0BAE\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 87,
+                                                lineNumber: 90,
                                                 columnNumber: 38
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BC1\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAA\u0BCA\u0BA4\u0BC1\u0BB5\u0BC1\u0B9F\u0BC8\u0BAE\u0BC8",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 88,
+                                                lineNumber: 91,
                                                 columnNumber: 48
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0B9A\u0BC1\u0BB1\u0BCD\u0BB1\u0BC1\u0B9A\u0BCD\u0B9A\u0BC2\u0BB4\u0BB2\u0BCD \u0B9A\u0BBF\u0BA8\u0BCD\u0BA4\u0BC8\u0BA9\u0B95\u0BB3\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 89,
+                                                lineNumber: 92,
                                                 columnNumber: 53
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0BAE\u0BC1\u0BAF\u0BB1\u0BCD\u0B9A\u0BBF"
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 70,
+                                        lineNumber: 73,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36869,7 +36909,7 @@ const IphonePlus = ()=>{
                                         src: "/img/image-24-1.png"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 92,
+                                        lineNumber: 95,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36878,18 +36918,18 @@ const IphonePlus = ()=>{
                                         src: "/img/image-22-1.png"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 93,
+                                        lineNumber: 96,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                lineNumber: 68,
+                                lineNumber: 71,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 67,
+                            lineNumber: 70,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -36903,7 +36943,7 @@ const IphonePlus = ()=>{
                                         src: "/img/rectangle-16-1.svg"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 98,
+                                        lineNumber: 101,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36912,7 +36952,7 @@ const IphonePlus = ()=>{
                                         src: "/img/image-25-1.png"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 99,
+                                        lineNumber: 102,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -36921,7 +36961,7 @@ const IphonePlus = ()=>{
                                         src: "/img/image-23-1.png"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 100,
+                                        lineNumber: 103,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -36930,145 +36970,145 @@ const IphonePlus = ()=>{
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BB1\u0BBF\u0BB5\u0BC1",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 102,
+                                                lineNumber: 105,
                                                 columnNumber: 38
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B95\u0BCB\u0BA9\u0BCD\u0BAE\u0BC8",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 103,
+                                                lineNumber: 106,
                                                 columnNumber: 39
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BB5\u0BBE\u0BAF\u0BCD\u0BAE\u0BC8",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 104,
+                                                lineNumber: 107,
                                                 columnNumber: 39
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAA\u0BC1\u0B95\u0BB4\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 105,
+                                                lineNumber: 108,
                                                 columnNumber: 38
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BA4\u0BC1\u0BB1\u0BB5\u0BC1",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 106,
+                                                lineNumber: 109,
                                                 columnNumber: 38
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B8A\u0BB4\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 107,
+                                                lineNumber: 110,
                                                 columnNumber: 36
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B95\u0BB2\u0BCD\u0BB5\u0BBF",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 108,
+                                                lineNumber: 111,
                                                 columnNumber: 38
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B85\u0BA9\u0BCD\u0BAA\u0BC1",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 109,
+                                                lineNumber: 112,
                                                 columnNumber: 38
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0BA8\u0BBF\u0BB2\u0BC8\u0BAF\u0BBE\u0BAE\u0BC8",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 110,
+                                                lineNumber: 113,
                                                 columnNumber: 43
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0BA8\u0BB1\u0BCD\u0BAA\u0BA3\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 111,
+                                                lineNumber: 114,
                                                 columnNumber: 46
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B88\u0B95\u0BC8",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 112,
+                                                lineNumber: 115,
                                                 columnNumber: 36
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B89\u0BA3\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD \u0BAE\u0BA9 \u0B89\u0BB1\u0BC1\u0BA4\u0BBF",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 113,
+                                                lineNumber: 116,
                                                 columnNumber: 43
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B95\u0BCB\u0BAA\u0BAE\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 114,
+                                                lineNumber: 117,
                                                 columnNumber: 38
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAA\u0B95\u0BC8\u0BB5\u0BC6\u0BB1\u0BBF \u0B8E\u0BA4\u0BBF\u0BB0\u0BCD\u0BAA\u0BCD\u0BAA\u0BBF\u0BAF\u0BB2\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 115,
+                                                lineNumber: 118,
                                                 columnNumber: 56
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BBF\u0BB2\u0BCD \u0B95\u0B9F\u0BB2\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 116,
+                                                lineNumber: 119,
                                                 columnNumber: 33
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B89\u0BB3\u0BB5\u0BC1",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 117,
+                                                lineNumber: 120,
                                                 columnNumber: 37
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B9A\u0BC6\u0BB2\u0BCD\u0BB5\u0BAE\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 118,
+                                                lineNumber: 121,
                                                 columnNumber: 43
                                             }, undefined),
                                             "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BBE\u0BA9\u0BC1\u0B9F\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD \u0B9A\u0BBF\u0BA8\u0BCD\u0BA4\u0BC8\u0BA9\u0B95\u0BB3\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 119,
+                                                lineNumber: 122,
                                                 columnNumber: 57
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BB5\u0BBE\u0BB4\u0BCD\u0BB5\u0BBF\u0BAF\u0BB2\u0BCD \u0BA8\u0BC6\u0BB1\u0BBF\u0BAE\u0BC1\u0BB1\u0BC8\u0B95\u0BB3\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 120,
+                                                lineNumber: 123,
                                                 columnNumber: 54
                                             }, undefined),
                                             "\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0B89\u0BB1\u0BB5\u0BC1\u0BAE\u0BCD \u0BAA\u0B95\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 121,
+                                                lineNumber: 124,
                                                 columnNumber: 47
                                             }, undefined),
                                             "\u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BAA\u0BB2"
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 101,
+                                        lineNumber: 104,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                lineNumber: 97,
+                                lineNumber: 100,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                            lineNumber: 96,
+                            lineNumber: 99,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                    lineNumber: 63,
+                    lineNumber: 66,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37083,10 +37123,10 @@ const IphonePlus = ()=>{
                                     children: [
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                             className: "text-wrapper-33",
-                                            children: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0BAA\u0BA3\u0BCD\u0BAA\u0BBE\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
+                                            children: "\u0BA4\u0BBF\u0BB0\u0BC1\u0BB5\u0BB3\u0BCD\u0BB3\u0BC1\u0BB5\u0B95\u0BCD \u0B95\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BCA\u0BB0\u0BC1\u0BB3\u0BCD"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 131,
+                                            lineNumber: 134,
                                             columnNumber: 17
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -37094,10 +37134,10 @@ const IphonePlus = ()=>{
                                             children: [
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                                     className: "span",
-                                                    children: "28"
+                                                    children: "50"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                    lineNumber: 133,
+                                                    lineNumber: 136,
                                                     columnNumber: 19
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -37105,13 +37145,13 @@ const IphonePlus = ()=>{
                                                     children: "\xa0"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                    lineNumber: 134,
+                                                    lineNumber: 137,
                                                     columnNumber: 19
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 132,
+                                            lineNumber: 135,
                                             columnNumber: 17
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37123,7 +37163,7 @@ const IphonePlus = ()=>{
                                                         className: "ellipse-4"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                        lineNumber: 138,
+                                                        lineNumber: 141,
                                                         columnNumber: 21
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37132,29 +37172,29 @@ const IphonePlus = ()=>{
                                                         src: "/img/image-37.png"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                        lineNumber: 139,
+                                                        lineNumber: 142,
                                                         columnNumber: 21
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 137,
+                                                lineNumber: 140,
                                                 columnNumber: 19
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 136,
+                                            lineNumber: 139,
                                             columnNumber: 17
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                    lineNumber: 130,
+                                    lineNumber: 133,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                lineNumber: 129,
+                                lineNumber: 132,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -37163,20 +37203,20 @@ const IphonePlus = ()=>{
                                     className: "overlap-6",
                                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                         className: "text-wrapper-35",
-                                        children: "2023 Research Articles"
+                                        children: "2024 Research Articles"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 146,
+                                        lineNumber: 149,
                                         columnNumber: 17
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                    lineNumber: 145,
+                                    lineNumber: 148,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                lineNumber: 144,
+                                lineNumber: 147,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37192,12 +37232,12 @@ const IphonePlus = ()=>{
                                             src: "/img/image-35-1.png"
                                         }, void 0, false, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 151,
+                                            lineNumber: 154,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 150,
+                                        lineNumber: 153,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37206,21 +37246,21 @@ const IphonePlus = ()=>{
                                         src: "/img/image-36.png"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 153,
+                                        lineNumber: 156,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                lineNumber: 149,
+                                lineNumber: 152,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                 className: "text-wrapper-36",
-                                children: "2023 \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0BAA\u0BC1\u0BB3\u0BCD\u0BB3\u0BBF\u0BB5\u0BBF\u0BB5\u0BB0\u0B99\u0BCD\u0B95\u0BB3\u0BCD"
+                                children: "2024 \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0BAA\u0BC1\u0BB3\u0BCD\u0BB3\u0BBF\u0BB5\u0BBF\u0BB5\u0BB0\u0B99\u0BCD\u0B95\u0BB3\u0BCD"
                             }, void 0, false, {
                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                lineNumber: 155,
+                                lineNumber: 158,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37231,7 +37271,7 @@ const IphonePlus = ()=>{
                                         children: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 157,
+                                        lineNumber: 160,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -37242,7 +37282,7 @@ const IphonePlus = ()=>{
                                                 children: "58"
                                             }, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 159,
+                                                lineNumber: 162,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -37250,13 +37290,13 @@ const IphonePlus = ()=>{
                                                 children: "\xa0\xa0"
                                             }, void 0, false, {
                                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                lineNumber: 160,
+                                                lineNumber: 163,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 158,
+                                        lineNumber: 161,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37268,7 +37308,7 @@ const IphonePlus = ()=>{
                                                     className: "ellipse-5"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                    lineNumber: 164,
+                                                    lineNumber: 167,
                                                     columnNumber: 19
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37277,24 +37317,24 @@ const IphonePlus = ()=>{
                                                     src: "/img/image-28.png"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                    lineNumber: 165,
+                                                    lineNumber: 168,
                                                     columnNumber: 19
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 163,
+                                            lineNumber: 166,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 162,
+                                        lineNumber: 165,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                lineNumber: 156,
+                                lineNumber: 159,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37305,7 +37345,7 @@ const IphonePlus = ()=>{
                                         children: "\u0B86\u0BB0\u0BBE\u0BAF\u0BCD\u0B9A\u0BCD\u0B9A\u0BBF \u0B95\u0BBE\u0BB2\u0BAE\u0BCD"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 170,
+                                        lineNumber: 173,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37313,7 +37353,7 @@ const IphonePlus = ()=>{
                                         children: "100 \u0BA8\u0BBE\u0B9F\u0BCD\u0B95\u0BB3\u0BCD"
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 171,
+                                        lineNumber: 174,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37325,7 +37365,7 @@ const IphonePlus = ()=>{
                                                     className: "ellipse-6"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                    lineNumber: 174,
+                                                    lineNumber: 177,
                                                     columnNumber: 19
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37334,43 +37374,43 @@ const IphonePlus = ()=>{
                                                     src: "/img/image-29.png"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                                    lineNumber: 175,
+                                                    lineNumber: 178,
                                                     columnNumber: 19
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                            lineNumber: 173,
+                                            lineNumber: 176,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                        lineNumber: 172,
+                                        lineNumber: 175,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                lineNumber: 169,
+                                lineNumber: 172,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                 className: "text-wrapper-40",
-                                children: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BC1\u0BAE\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0BAA\u0BA3\u0BCD\u0BAA\u0BBE\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BA9\u0BBF\u0BA4\u0BB0\u0BCD\u0B95\u0BB3\u0BC8 \u0B8E\u0BB5\u0BCD\u0BB5\u0BBE\u0BB1\u0BC1 \u0BA4\u0BA9\u0BBF \u0B9A\u0BBF\u0BB1\u0BAA\u0BCD\u0BAA\u0BC1\u0BAE\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BB0\u0BBE\u0B95 \u0BAE\u0BBE\u0BB1\u0BCD\u0BB1\u0BC1\u0B95\u0BBF\u0BB1\u0BA4\u0BC1"
+                                children: "\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BB1\u0BB3\u0BCD \u0BAE\u0BA9\u0BBF\u0BA4\u0BB0\u0BCD\u0B95\u0BB3\u0BC8 \u0B8E\u0BB5\u0BCD\u0BB5\u0BBE\u0BB1\u0BC1 \u0BA4\u0BA9\u0BBF\u0B9A\u0BCD \u0B9A\u0BBF\u0BB1\u0BAA\u0BCD\u0BAA\u0BC1\u0B9F\u0BC8\u0BAF\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BBE\u0B95 \u0BAE\u0BBE\u0BB1\u0BCD\u0BB1\u0BC1\u0B95\u0BBF\u0BB1\u0BA4\u0BC1"
                             }, void 0, false, {
                                 fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                                lineNumber: 179,
+                                lineNumber: 182,
                                 columnNumber: 13
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                        lineNumber: 128,
+                        lineNumber: 131,
                         columnNumber: 11
                     }, undefined)
                 }, void 0, false, {
                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                    lineNumber: 127,
+                    lineNumber: 130,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _groupWrapper.GroupWrapper), {
@@ -37378,7 +37418,7 @@ const IphonePlus = ()=>{
                     href: "mailto:thamizh.research.usa@gmail.com"
                 }, void 0, false, {
                     fileName: "src/screens/IphonePlus/IphonePlus.jsx",
-                    lineNumber: 184,
+                    lineNumber: 187,
                     columnNumber: 9
                 }, undefined)
             ]
@@ -41325,7 +41365,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-20",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-7.png",
                     text: "\u0BA8\u0B9F\u0BCD\u0BAA\u0BC1",
                     text1: "\u0BAA\u0BBF\u0BB0\u0BBF\u0BA4\u0BC7\u0B9A\u0BC1 \u0BAA\u0BB5\u0BBE\u0BA9\u0BBF \u0B9A\u0B99\u0BCD\u0B95\u0BB0\u0BCD"
@@ -41336,7 +41376,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-instance",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-8.png",
                     text: "\u0B89\u0BA3\u0BC7\u0BB5 \u0BAE\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1",
                     text1: "\u0B87\u0BB2\u0BBE\u0B9A\u0BBF\u0BAF\u0BAA\u0BBF\u0BB0\u0BBF\u0BAF\u0BBE"
@@ -41347,7 +41387,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-20-instance",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-9.png",
                     text: "\u0BB5\u0BBE\u0BAF\u0BCD\u0BAE\u0BC8",
                     text1: "\u0B9A\u0BBE\u0BA9\u0B95\u0BBF \u0B9A\u0BC1\u0BB5\u0BBE\u0BAE\u0BBF\u0BA8\u0BBE\u0BA4\u0BA9\u0BCD"
@@ -41358,7 +41398,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "design-component-instance-node",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-10.png",
                     text: "\u0B85\u0BB1\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCD \u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BA4\u0BCD\u0BA4\u0BC1\u0BB5...",
                     text1: "\u0B86\u0BA4\u0BB5\u0BCD \u0B9A\u0BBF\u0BB0\u0BBF\u0BB0\u0BBE\u0BAE\u0BCD"
@@ -41369,7 +41409,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-2",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-11.png",
                     text: "\u0BB5\u0BC7\u0BB3\u0BBE\u0BA3\u0BCD\u0BAE\u0BC8\u0BAF\u0BBF\u0BA9\u0BCD \u0BAA\u0BC6\u0BB0\u0BC1...",
                     text1: "\u0B9A\u0BBF\u0BA4\u0BCD\u0BA4\u0BBE\u0BB0\u0BCD\u0BA4\u0BC1 \u0B9A\u0BC6\u0BB2\u0BCD\u0BB5\u0B95\u0BC1\u0BAE\u0BBE\u0BB0\u0BCD"
@@ -41380,7 +41420,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-3",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-12.png",
                     text: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0B89\u0BA3\u0BB5\u0BC1\u0B95\u0BB3\u0BCD",
                     text1: "\u0B9A\u0BBF\u0BB0\u0BBF\u0B9A\u0BB0\u0BA3\u0B82"
@@ -41391,7 +41431,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-4",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-13.png",
                     text: "\u0BAE\u0BBE\u0BB0\u0BCD\u0B95\u0BB4\u0BBF \u0BAE\u0BBE\u0BA4 \u0B95\u0BCB\u0BB2\u0B99\u0BCD\u0B95\u0BB3\u0BCD",
                     text1: "\u0B85\u0B9A\u0BC1\u0BB5\u0BBF\u0B95\u0BBE \u0B9A\u0BC1\u0BB0\u0BC7\u0B9A\u0BC1 \u0BAA\u0BC1\u0BB5\u0BA9\u0BC7\u0B9A\u0BC1\u0BB5\u0BB0\u0BCD"
@@ -41402,7 +41442,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-5",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-14.png",
                     text: "\u0BA8\u0BC7\u0BB0\u0BCD\u0BAE\u0BC8",
                     text1: "\u0B9A\u0BCC\u0B9A\u0BA9\u0BCD\u0BAF\u0BBE \u0B9A\u0BC6\u0BA8\u0BCD\u0BA4\u0BBF\u0BB2\u0BCD\u0B95\u0BC1\u0BAE\u0BBE\u0BB0\u0BCD"
@@ -41413,7 +41453,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-6",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-15.png",
                     text: "\u0BAA\u0BB1\u0BC8",
                     text1: "\u0BAE\u0BC1\u0B95\u0BC1\u0BA8\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1 \u0B95\u0BBF\u0BB0\u0BC1\u0B9F\u0BCD\u0B9F\u0BBF\u0BA3\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BBE\u0BB0\u0BCD"
@@ -41424,7 +41464,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-7",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-16.png",
                     text: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B87\u0BB2\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BAE\u0BCD",
                     text1: "\u0BAA\u0BC2\u0BB0\u0BCD\u0BB5\u0BBF \u0B87\u0BB2\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BBF\u0BA8\u0BBE\u0BB0\u0BBE\u0BAF\u0BA3\u0BA9\u0BCD"
@@ -41435,7 +41475,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-8",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-17.png",
                     text: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BCD\u0B95\u0BCD\u0B95\u0BB2\u0BCD\u0BB5\u0BBF",
                     text1: "\u0BAF\u0B9A\u0BCD\u0BB5\u0BA8\u0BCD\u0BA4\u0BCD \u0BB0\u0BBE\u0B9C\u0BCD\u0B95\u0BC1\u0BAE\u0BBE\u0BB0\u0BCD"
@@ -41446,7 +41486,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-9",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-18.png",
                     text: "\u0BA8\u0B9F\u0BA9\u0B95\u0BCD\u0B95\u0BB2\u0BC8",
                     text1: "\u0B86\u0BB0\u0BBE\u0BA4\u0BA9\u0BBE \u0B95\u0BA3\u0BC7\u0B9A\u0BA9\u0BCD"
@@ -41457,7 +41497,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-10",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-19.png",
                     text: "\u0BB5\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BCB\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD",
                     text1: "\u0B9A\u0BC1\u0BA4\u0BB0\u0BCD\u0B9A\u0BA9 \u0BA8\u0BBF\u0BAE\u0BB2\u0BCD \u0BA4\u0BAF\u0BBE\u0BB3\u0B95\u0BC1\u0BAE\u0BBE\u0BB0\u0BCD"
@@ -41468,7 +41508,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-11",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-20.png",
                     text: "\u0B9A\u0BBF\u0BB1\u0BCD\u0BAA\u0B95\u0BB2\u0BC8",
                     text1: "\u0B87\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BBF \u0B9A\u0BCB\u0BA9\u0BCD\u0B9A\u0BC1"
@@ -41479,7 +41519,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-12",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-21.png",
                     text: "\u0BAE\u0BA9\u0BBF\u0BA4\u0BA8\u0BC7\u0BAF\u0BAE\u0BCD",
                     text1: "\u0B9A\u0B9E\u0BCD\u0B9A\u0BA9\u0BBE \u0B9A\u0BA8\u0BCD\u0BA4\u0BC0\u0BAA\u0BC1"
@@ -41490,7 +41530,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-13",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-22.png",
                     text: "\u0BAA\u0BCA\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BA4\u0BBF\u0BB0\u0BC1\u0BB5\u0BBF\u0BB4\u0BBE",
                     text1: "\u0BAA\u0BBF\u0BB0\u0BC7\u0BA9\u0B9A\u0BC1 \u0BAA\u0BB5\u0BBE\u0BA9\u0BBF \u0B9A\u0B99\u0BCD\u0B95\u0BB0"
@@ -41501,7 +41541,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-14",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-23.png",
                     text: "\u0B95\u0BCB\u0BB5\u0BBF\u0BB2\u0BCD \u0B95\u0B9F\u0BCD\u0B9F\u0BBF\u0B9F\u0B95\u0BCD\u0B95\u0BB2\u0BC8",
                     text1: "\u0B87\u0BB2\u0B9F\u0BCD\u0B9A\u0BA9\u0BBE \u0B85\u0BB0\u0BC1\u0BA3\u0BAA\u0BBF\u0BB0\u0B9A\u0BBE\u0BA4\u0BCD"
@@ -41512,7 +41552,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-15",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-24.png",
                     text: "\u0B92\u0BB4\u0BC1\u0B95\u0BCD\u0B95\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCD \u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BA4\u0BCD\u0BA4\u0BC1...",
                     text1: "\u0B85\u0B9A\u0BAF\u0BCD \u0BB5\u0BC0\u0BB0\u0BAE\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1"
@@ -41523,7 +41563,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-16",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-1.png",
                     text: "\u0B9A\u0BBF\u0BB2\u0BAE\u0BCD\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BAE\u0BCD",
                     text1: "\u0B85\u0B95\u0BBF\u0BB2\u0BCD \u0BA8\u0BBF\u0BA4\u0BCD\u0BA4\u0BBF\u0BAF\u0BBE\u0BA9\u0BA8\u0BCD\u0BA4\u0BBE"
@@ -41534,7 +41574,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-17",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-2.png",
                     text: "\u0BA8\u0BC0\u0BB0\u0BCD\u0BB5\u0BB3\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCD \u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BA4\u0BCD\u0BA4\u0BC1...",
                     text1: "\u0BA8\u0BC7\u0B95\u0BBE \u0B95\u0BCB\u0BAA\u0BBE\u0BB2\u0BCD"
@@ -41545,7 +41585,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-18",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-25.png",
                     text: "\u0B8F\u0BB1\u0BC1\u0BA4\u0BB4\u0BC1\u0BB5\u0BC1\u0BA4\u0BB2\u0BCD",
                     text1: "\u0BB5\u0BB0\u0BC1\u0BA3\u0BCD \u0B9A\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF\u0BB0\u0BAE\u0BA3\u0BBF\u0BAF\u0BA9\u0BCD"
@@ -41556,7 +41596,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-19",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-26.png",
                     text: "\u0BAA\u0BCA\u0BB0\u0BC1\u0BB3\u0BC8 \u0B88\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BC1\u0BB1\u0BC8...",
                     text1: "\u0B9A\u0BA8\u0BCD\u0BA4\u0BBF\u0BB0\u0BC7\u0B9A\u0BC1 \u0B95\u0BCB\u0BAA\u0BBE\u0BB2\u0BCD"
@@ -41567,7 +41607,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-21",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-27.png",
                     text: "\u0BAA\u0BCA\u0BB0\u0BC1\u0BB3\u0BC8 \u0B88\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BC1\u0BB1\u0BC8...",
                     text1: "\u0B85\u0B95\u0BCD\u0B9A\u0BB0\u0BBE \u0B85\u0BB0\u0BC1\u0BA3\u0BCD \u0B95\u0BBE\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BBF\u0B95\u0BCD"
@@ -41578,7 +41618,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-22",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-22.png",
                     text: "\u0BAA\u0BCA\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BA4\u0BBF\u0BB0\u0BC1\u0BB5\u0BBF\u0BB4\u0BBE",
                     text1: "\u0B85\u0BA4\u0BBF\u0BA4\u0BBF \u0BA8\u0BBF\u0BA4\u0BCD\u0BA4\u0BBF\u0BAF\u0BBE\u0BA9\u0BA8\u0BCD\u0BA4\u0BBE"
@@ -41589,7 +41629,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-23",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-28.png",
                     text: "\u0BB5\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BCB\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD",
                     text1: "\u0B87\u0BA9\u0BBF\u0BAF\u0BA9\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD\u0B9A\u0BCD\u0B9A\u0BC6\u0BB2\u0BCD\u0BB5\u0BA9\u0BCD \u0B85\u0BB1\u0BBF\u0BB5\u0BB4\u0B95\u0BA9\u0BCD"
@@ -41600,7 +41640,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-24",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-29.png",
                     text: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0BA8\u0B9F\u0BA9\u0B95\u0BCD\u0B95\u0BB2\u0BC8\u0B95\u0BB3\u0BCD",
                     text1: "\u0BB5\u0BB0\u0BCD\u0B9A\u0BBF\u0BA9\u0BBF \u0BB5\u0BBF\u0B9A\u0BAF\u0B95\u0BBE\u0BB3\u0BBF\u0BB0\u0BBE\u0B9A\u0BA9\u0BCD"
@@ -41611,7 +41651,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-25",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-25.png",
                     text: "\u0BB5\u0BC0\u0BB0\u0BAE\u0BCD",
                     text1: "\u0BA4\u0BBF\u0B95\u0BB4\u0BCD \u0BAA\u0BCA\u0BA9\u0BCD\u0B9A\u0BBF\u0BB0\u0BBF\xa0\xa0\u0BAA\u0BCA\u0BA9\u0BCD\u0BA9\u0BB0\u0B9A\u0BC1"
@@ -41622,7 +41662,7 @@ const Desktop = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-26",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-30.png",
                     text: "\u0BAA\u0BC6\u0BB0\u0BBF\u0BAF\u0BCB\u0BB0\u0BCD\u0B95\u0BB3\u0BC8 \u0BAE\u0BA4\u0BBF\u0BA4\u0BCD\u0BA4\u0BB2\u0BCD",
                     text1: "\u0BA4\u0BBF\u0BAF\u0BBE\u0BA9\u0BB5\u0BCD \u0BB5\u0BC8\u0BA4\u0BCD\u0BA4\u0BBF\u0BAF\u0BA8\u0BBE\u0BA4\u0BA9\u0BCD"
@@ -43643,7 +43683,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-136",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BA8\u0B9F\u0BCD\u0BAA\u0BC1",
                     text1: "\u0BAA\u0BBF\u0BB0\u0BBF\u0BA4\u0BC7\u0B9A\u0BC1 \u0BAA\u0BB5\u0BBE\u0BA9\u0BBF \u0B9A\u0B99\u0BCD\u0B95\u0BB0\u0BCD"
                 }, void 0, false, {
@@ -43653,7 +43693,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-137",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0B89\u0BA3\u0BC7\u0BB5 \u0BAE\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1",
                     text1: "\u0B87\u0BB2\u0BBE\u0B9A\u0BBF\u0BAF\u0BAA\u0BBF\u0BB0\u0BBF\u0BAF\u0BBE"
                 }, void 0, false, {
@@ -43663,7 +43703,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-138",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BB5\u0BBE\u0BAF\u0BCD\u0BAE\u0BC8",
                     text1: "\u0B9A\u0BBE\u0BA9\u0B95\u0BBF \u0B9A\u0BC1\u0BB5\u0BBE\u0BAE\u0BBF\u0BA8\u0BBE\u0BA4\u0BA9\u0BCD"
                 }, void 0, false, {
@@ -43673,7 +43713,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-139",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0B85\u0BB1\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCD \u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BA4\u0BCD\u0BA4\u0BC1\u0BB5...",
                     text1: "\u0B86\u0BA4\u0BB5\u0BCD \u0B9A\u0BBF\u0BB0\u0BBF\u0BB0\u0BBE\u0BAE\u0BCD"
                 }, void 0, false, {
@@ -43683,7 +43723,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-140",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BB5\u0BC7\u0BB3\u0BBE\u0BA3\u0BCD\u0BAE\u0BC8\u0BAF\u0BBF\u0BA9\u0BCD \u0BAA\u0BC6\u0BB0\u0BC1...",
                     text1: "\u0B9A\u0BBF\u0BA4\u0BCD\u0BA4\u0BBE\u0BB0\u0BCD\u0BA4\u0BC1 \u0B9A\u0BC6\u0BB2\u0BCD\u0BB5\u0B95\u0BC1\u0BAE\u0BBE\u0BB0\u0BCD"
                 }, void 0, false, {
@@ -43693,7 +43733,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-141",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0B89\u0BA3\u0BB5\u0BC1\u0B95\u0BB3\u0BCD",
                     text1: "\u0B9A\u0BBF\u0BB0\u0BBF\u0B9A\u0BB0\u0BA3\u0B82"
                 }, void 0, false, {
@@ -43703,7 +43743,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-142",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BAE\u0BBE\u0BB0\u0BCD\u0B95\u0BB4\u0BBF \u0BAE\u0BBE\u0BA4 \u0B95\u0BCB\u0BB2\u0B99\u0BCD\u0B95\u0BB3\u0BCD",
                     text1: "\u0B85\u0B9A\u0BC1\u0BB5\u0BBF\u0B95\u0BBE \u0B9A\u0BC1\u0BB0\u0BC7\u0B9A\u0BC1 \u0BAA\u0BC1\u0BB5\u0BA9\u0BC7\u0B9A\u0BC1\u0BB5\u0BB0\u0BCD"
                 }, void 0, false, {
@@ -43713,7 +43753,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-143",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BA8\u0BC7\u0BB0\u0BCD\u0BAE\u0BC8",
                     text1: "\u0B9A\u0BCC\u0B9A\u0BA9\u0BCD\u0BAF\u0BBE \u0B9A\u0BC6\u0BA8\u0BCD\u0BA4\u0BBF\u0BB2\u0BCD\u0B95\u0BC1\u0BAE\u0BBE\u0BB0\u0BCD"
                 }, void 0, false, {
@@ -43723,7 +43763,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-144",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BAA\u0BB1\u0BC8",
                     text1: "\u0BAE\u0BC1\u0B95\u0BC1\u0BA8\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1 \u0B95\u0BBF\u0BB0\u0BC1\u0B9F\u0BCD\u0B9F\u0BBF\u0BA3\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BBE\u0BB0\u0BCD"
                 }, void 0, false, {
@@ -43733,7 +43773,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-145",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B87\u0BB2\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BAE\u0BCD",
                     text1: "\u0BAA\u0BC2\u0BB0\u0BCD\u0BB5\u0BBF \u0B87\u0BB2\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BBF\u0BA8\u0BBE\u0BB0\u0BBE\u0BAF\u0BA3\u0BA9\u0BCD"
                 }, void 0, false, {
@@ -43743,7 +43783,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-146",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BCD\u0B95\u0BCD\u0B95\u0BB2\u0BCD\u0BB5\u0BBF",
                     text1: "\u0BAF\u0B9A\u0BCD\u0BB5\u0BA8\u0BCD\u0BA4\u0BCD \u0BB0\u0BBE\u0B9C\u0BCD\u0B95\u0BC1\u0BAE\u0BBE\u0BB0\u0BCD"
                 }, void 0, false, {
@@ -43753,7 +43793,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-147",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BA8\u0B9F\u0BA9\u0B95\u0BCD\u0B95\u0BB2\u0BC8",
                     text1: "\u0B86\u0BB0\u0BBE\u0BA4\u0BA9\u0BBE \u0B95\u0BA3\u0BC7\u0B9A\u0BA9\u0BCD"
                 }, void 0, false, {
@@ -43763,7 +43803,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-148",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BB5\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BCB\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD",
                     text1: "\u0B9A\u0BC1\u0BA4\u0BB0\u0BCD\u0B9A\u0BA9 \u0BA8\u0BBF\u0BAE\u0BB2\u0BCD \u0BA4\u0BAF\u0BBE\u0BB3\u0B95\u0BC1\u0BAE\u0BBE\u0BB0\u0BCD"
                 }, void 0, false, {
@@ -43773,7 +43813,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-149",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0B9A\u0BBF\u0BB1\u0BCD\u0BAA\u0B95\u0BB2\u0BC8",
                     text1: "\u0B87\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BBF \u0B9A\u0BCB\u0BA9\u0BCD\u0B9A\u0BC1"
                 }, void 0, false, {
@@ -43783,7 +43823,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-150",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BAE\u0BA9\u0BBF\u0BA4\u0BA8\u0BC7\u0BAF\u0BAE\u0BCD",
                     text1: "\u0B9A\u0B9E\u0BCD\u0B9A\u0BA9\u0BBE \u0B9A\u0BA8\u0BCD\u0BA4\u0BC0\u0BAA\u0BC1"
                 }, void 0, false, {
@@ -43793,7 +43833,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-151",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-22.png",
                     text: "\u0BAA\u0BCA\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BA4\u0BBF\u0BB0\u0BC1\u0BB5\u0BBF\u0BB4\u0BBE",
                     text1: "\u0BAA\u0BBF\u0BB0\u0BC7\u0BA9\u0B9A\u0BC1 \u0BAA\u0BB5\u0BBE\u0BA9\u0BBF \u0B9A\u0B99\u0BCD\u0B95\u0BB0"
@@ -43804,7 +43844,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-152",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0B95\u0BCB\u0BB5\u0BBF\u0BB2\u0BCD \u0B95\u0B9F\u0BCD\u0B9F\u0BBF\u0B9F\u0B95\u0BCD\u0B95\u0BB2\u0BC8",
                     text1: "\u0B87\u0BB2\u0B9F\u0BCD\u0B9A\u0BA9\u0BBE \u0B85\u0BB0\u0BC1\u0BA3\u0BAA\u0BBF\u0BB0\u0B9A\u0BBE\u0BA4\u0BCD"
                 }, void 0, false, {
@@ -43814,7 +43854,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-153",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0B92\u0BB4\u0BC1\u0B95\u0BCD\u0B95\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCD \u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BA4\u0BCD\u0BA4\u0BC1...",
                     text1: "\u0B85\u0B9A\u0BAF\u0BCD \u0BB5\u0BC0\u0BB0\u0BAE\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1"
                 }, void 0, false, {
@@ -43824,7 +43864,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-154",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-1.png",
                     text: "\u0B9A\u0BBF\u0BB2\u0BAE\u0BCD\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BAE\u0BCD",
                     text1: "\u0B85\u0B95\u0BBF\u0BB2\u0BCD \u0BA8\u0BBF\u0BA4\u0BCD\u0BA4\u0BBF\u0BAF\u0BBE\u0BA9\u0BA8\u0BCD\u0BA4\u0BBE"
@@ -43835,7 +43875,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-155",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-2.png",
                     text: "\u0BA8\u0BC0\u0BB0\u0BCD\u0BB5\u0BB3\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCD \u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BA4\u0BCD\u0BA4\u0BC1...",
                     text1: "\u0BA8\u0BC7\u0B95\u0BBE \u0B95\u0BCB\u0BAA\u0BBE\u0BB2\u0BCD"
@@ -43846,7 +43886,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-156",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-25.png",
                     text: "\u0B8F\u0BB1\u0BC1\u0BA4\u0BB4\u0BC1\u0BB5\u0BC1\u0BA4\u0BB2\u0BCD",
                     text1: "\u0BB5\u0BB0\u0BC1\u0BA3\u0BCD \u0B9A\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF\u0BB0\u0BAE\u0BA3\u0BBF\u0BAF\u0BA9\u0BCD"
@@ -43857,7 +43897,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-157",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BAA\u0BCA\u0BB0\u0BC1\u0BB3\u0BC8 \u0B88\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BC1\u0BB1\u0BC8...",
                     text1: "\u0B9A\u0BA8\u0BCD\u0BA4\u0BBF\u0BB0\u0BC7\u0B9A\u0BC1 \u0B95\u0BCB\u0BAA\u0BBE\u0BB2\u0BCD"
                 }, void 0, false, {
@@ -43867,7 +43907,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-158",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BAA\u0BCA\u0BB0\u0BC1\u0BB3\u0BC8 \u0B88\u0B9F\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BC1\u0BB1\u0BC8...",
                     text1: "\u0B85\u0B95\u0BCD\u0B9A\u0BB0\u0BBE \u0B85\u0BB0\u0BC1\u0BA3\u0BCD \u0B95\u0BBE\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BBF\u0B95\u0BCD"
                 }, void 0, false, {
@@ -43877,7 +43917,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-159",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-22.png",
                     text: "\u0BAA\u0BCA\u0B99\u0BCD\u0B95\u0BB2\u0BCD \u0BA4\u0BBF\u0BB0\u0BC1\u0BB5\u0BBF\u0BB4\u0BBE",
                     text1: "\u0B85\u0BA4\u0BBF\u0BA4\u0BBF \u0BA8\u0BBF\u0BA4\u0BCD\u0BA4\u0BBF\u0BAF\u0BBE\u0BA9\u0BA8\u0BCD\u0BA4\u0BBE"
@@ -43888,7 +43928,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-160",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BB5\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BCB\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD",
                     text1: "\u0B87\u0BA9\u0BBF\u0BAF\u0BA9\u0BCD \u0BA4\u0BAE\u0BBF\u0BB4\u0BCD\u0B9A\u0BCD\u0B9A\u0BC6\u0BB2\u0BCD\u0BB5\u0BA9\u0BCD \u0B85\u0BB1\u0BBF\u0BB5\u0BB4\u0B95\u0BA9\u0BCD"
                 }, void 0, false, {
@@ -43898,7 +43938,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-161",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BB0\u0BCD \u0BA8\u0B9F\u0BA9\u0B95\u0BCD\u0B95\u0BB2\u0BC8\u0B95\u0BB3\u0BCD",
                     text1: "\u0BB5\u0BB0\u0BCD\u0B9A\u0BBF\u0BA9\u0BBF \u0BB5\u0BBF\u0B9A\u0BAF\u0B95\u0BBE\u0BB3\u0BBF\u0BB0\u0BBE\u0B9A\u0BA9\u0BCD"
                 }, void 0, false, {
@@ -43908,7 +43948,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-162",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     rectangle: "/img/rectangle-15-25.png",
                     text: "\u0BB5\u0BC0\u0BB0\u0BAE\u0BCD",
                     text1: "\u0BA4\u0BBF\u0B95\u0BB4\u0BCD \u0BAA\u0BCA\u0BA9\u0BCD\u0B9A\u0BBF\u0BB0\u0BBF\xa0\xa0\u0BAA\u0BCA\u0BA9\u0BCD\u0BA9\u0BB0\u0B9A\u0BC1"
@@ -43919,7 +43959,7 @@ const Screen13 = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group.Group), {
                     className: "group-163",
-                    href: "https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7",
+                    href: "https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_",
                     text: "\u0BAA\u0BC6\u0BB0\u0BBF\u0BAF\u0BCB\u0BB0\u0BCD\u0B95\u0BB3\u0BC8 \u0BAE\u0BA4\u0BBF\u0BA4\u0BCD\u0BA4\u0BB2\u0BCD",
                     text1: "\u0BA4\u0BBF\u0BAF\u0BBE\u0BA9\u0BB5\u0BCD \u0BB5\u0BC8\u0BA4\u0BCD\u0BA4\u0BBF\u0BAF\u0BA8\u0BBE\u0BA4\u0BA9\u0BCD"
                 }, void 0, false, {
