@@ -322,7 +322,7 @@
   font-weight: 400;
   line-height: 26px;
   position: absolute;
-  top: 61px;
+  top: 21px;
   left: 39px;
 }
 
@@ -349,7 +349,7 @@
   font-weight: 400;
   line-height: 26px;
   position: absolute;
-  top: 62px;
+  top: 21px;
   left: 56px;
 }
 
@@ -378,7 +378,7 @@
   width: 594px;
   font-family: Arimo, Helvetica;
   font-size: 20px;
-  font-weight: 400;
+  font-weight: bolder;
   line-height: normal;
   position: absolute;
   top: 105px;
@@ -606,6 +606,16 @@
 }
 
 .screen-12 .button-11 {
+  all: unset;
+  box-sizing: border-box;
+  width: 242px;
+  height: 60px;
+  position: absolute;
+  top: 504px;
+  left: 881px;
+}
+
+.screen-12 .button-12 {
   all: unset;
   box-sizing: border-box;
   width: 242px;
@@ -1735,9 +1745,17 @@ screen-12 .text-wrapper-20 {
 
 .iphone-plus .button {
   width: 244px;
-  height: 110px;
+  height: 80px;
   position: absolute;
   top: 423px;
+  left: 87px;
+}
+
+.iphone-plus .button2 {
+  width: 244px;
+  height: 110px;
+  position: absolute;
+  top: 500px;
   left: 87px;
 }
 
@@ -1753,8 +1771,8 @@ screen-12 .text-wrapper-20 {
 .iphone-plus .rectangle-3 {
   background-color: #3abda5;
   border-radius: 12px;
-  width: 240px;
-  height: 60px;
+  width: 225px;
+  height: 40px;
   position: absolute;
   top: 0;
   left: 0;
@@ -1768,8 +1786,8 @@ screen-12 .text-wrapper-20 {
   font-weight: 400;
   line-height: normal;
   position: absolute;
-  top: 16px;
-  left: 85px;
+  top: 8px;
+  left: 35px;
 }
 
 .iphone-plus .text-wrapper-20 {
@@ -2010,11 +2028,11 @@ screen-12 .text-wrapper-20 {
   text-align: center;
   font-family: Francois One, Helvetica;
   font-size: 24px;
-  font-weight: 400;
+  font-weight: bolder;
   line-height: normal;
   position: absolute;
   top: 32px;
-  left: 119px;
+  left: 10px;
 }
 
 .iphone-plus .line-3 {
@@ -2033,7 +2051,7 @@ screen-12 .text-wrapper-20 {
   width: 380px;
   font-family: Arimo, Helvetica;
   font-size: 20px;
-  font-weight: 400;
+  font-weight: bolder;
   line-height: normal;
   position: absolute;
   top: 83px;
@@ -2071,7 +2089,7 @@ screen-12 .text-wrapper-20 {
   font-weight: 400;
   line-height: 26px;
   position: absolute;
-  top: 26px;
+  top: 8px;
   left: 23px;
 }
 
@@ -2134,7 +2152,7 @@ screen-12 .text-wrapper-20 {
   font-weight: 400;
   line-height: 26px;
   position: absolute;
-  top: 26px;
+  top: 8px;
   left: 23px;
 }
 
@@ -2244,7 +2262,17 @@ screen-12 .text-wrapper-20 {
   width: 242px;
   height: 60px;
   position: absolute;
-  top: 765px;
+  top: 735px;
+  left: 71px;
+}
+
+.iphone-plus .button-22 {
+  all: unset;
+  box-sizing: border-box;
+  width: 242px;
+  height: 60px;
+  position: absolute;
+  top: 815px;
   left: 71px;
 }
 
